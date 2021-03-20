@@ -1,0 +1,6 @@
+vision
+data/datasets
+*.pyc
+__pycache__
+checkpoints
+outputs
