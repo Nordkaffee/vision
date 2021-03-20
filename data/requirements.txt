@@ -1,0 +1,2 @@
+jmd_imagescraper==1.0.2
+argparse==1.4.0
