@@ -1,0 +1,4 @@
+torch
+torchvision
+lightly==1.1.2
+pycocotools
